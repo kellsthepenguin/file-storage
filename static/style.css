@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+}
+
+form {
+    text-align: center;
+    margin: auto 0;
+}
+
+input[type="file"] {
+    position: absolute;
+    width: 0;
+    height: 0;
+    padding: 0;
+}
